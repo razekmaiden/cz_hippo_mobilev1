@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final_dataset</folder>
+	<filename>hippo_00000570.jpg</filename>
+	<path>/media/joseluis/razek_320GB/datasets/Dataset_CemZoo/dataset_hipopotamo/final_dataset/hippo_00000570.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>502</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hipopotamo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>151</ymin>
+			<xmax>737</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_hipopotamo</folder>
+	<filename>hippo_00000616.jpg</filename>
+	<path>hippo_00000616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hipopotamo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>18</ymin>
+			<xmax>578</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>
